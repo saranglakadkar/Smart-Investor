@@ -4,7 +4,7 @@ Run Backend
 
 for java mail sender
 	- give your email
-	- give your app password(if you don't have then create on, search in youtube if needed "how to create app password for gmail")
+	- give your app password
 
 stripe payment gatway
 	- give your api key
